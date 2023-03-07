@@ -69,7 +69,17 @@
 
 }
 
-
+.xbox .quadrant {
+    position: absolute;
+    background: url(xbox-assets/quadrant.svg);
+    height: 45px;
+    width: 45px;
+    top: 258px;
+    left: 354px;
+    z-index: 0;
+    opacity: 0;
+   
+}
 
 .xbox .arrows {
     position: absolute;
